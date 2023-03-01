@@ -9,7 +9,7 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/73ymNClJu3dyFugAl9/giphy.gif" width="300"/>
 </div>
-### 🔭 I’m currently working on studying &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+### 🔭 I’m currently working on studying&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
 ---
