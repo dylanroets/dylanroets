@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif
 
 <!--
 **dylanroets/dylanroets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
