@@ -12,7 +12,7 @@
 
 ---
 
-### :telescope: My Stats<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+### :telescope: I’m currently working on and learning <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
 
 ---
