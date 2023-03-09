@@ -34,6 +34,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
-
-<!--
 **dylanroets/dylanroets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
